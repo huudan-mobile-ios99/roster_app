@@ -1,21 +1,5 @@
-<<<<<<< HEAD
+
 # vegas-roster
-roster app 
-=======
-# vegas_roster
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 1917887 (all commit)
+![flutter_16](https://github.com/user-attachments/assets/70e2937d-921a-4e76-9f40-1060db45b230)
+![flutter_15](https://github.com/user-attachments/assets/8b77bf1c-c9ec-4dba-987c-25792a2c2664)
