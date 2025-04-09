@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143133002260",
+    "project_id": "vegas-roster",
+    "storage_bucket": "vegas-roster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143133002260:android:09e826635161cb23ba3501",
+        "android_client_info": {
+          "package_name": "com.example.vegas_roster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143133002260-1iv11ja6p3aobjpnjjur1aqahb4b1g7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCwmRKM_uAhCNj2XFvmK7rQQycqYx3jpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143133002260-1iv11ja6p3aobjpnjjur1aqahb4b1g7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
